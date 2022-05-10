@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:220,01.01 Qué es un web service 
+ES_819_01_01_XR25R.mp4
+#EXTINF:368,01.02 Tipos de web services 
+ES_819_01_02_XR25R.mp4
+#EXTINF:379,01.03 Fundamentos de sintaxis JSON
+ES_819_01_03_XR25R.mp4
+#EXTINF:352,01.04 Fundamentos de sintaxis XML
+ES_819_01_04_XR25R.mp4
+#EXTINF:194,01.05 Configurando el entorno de desarrollo para web services
+ES_819_01_05_XR25R.mp4
+#EXTINF:190,01.06 Herramientas para Sublime Text 2
+ES_819_01_06_XR25R.mp4
+#EXTINF:517,01.07 Creando un web service básico
+ES_819_01_07_XR25R.mp4
+#EXTINF:360,02.01 Creando un servicio SOAP básico
+ES_819_02_01_XR25R.mp4
+#EXTINF:396,02.02 Agregar parámetros a los métodos de un web service
+ES_819_02_02_XR25R.mp4
+#EXTINF:471,02.03 Definir formato WSDL
+ES_819_02_03_XR25R.mp4
+#EXTINF:504,02.04 Conectar SOAP a MySQL
+ES_819_02_04_XR25R.mp4
+#EXTINF:466,02.05 Consumir servicios SOAP externos
+ES_819_02_05_XR25R.mp4
+#EXTINF:517,02.06 Procesar datos complejos de servicios externos en SOAP
+ES_819_02_06_XR25R.mp4
+#EXTINF:481,03.01 Creamos un servicio REST básico
+ES_819_03_01_XR25R.mp4
+#EXTINF:573,03.02 Configurando rutas para REST
+ES_819_03_02_XR25R.mp4
+#EXTINF:537,03.03 Conectar REST a MySQL
+ES_819_03_03_XR25R.mp4
+#EXTINF:581,03.04 Utilizar GET y POST en REST
+ES_819_03_04_XR25R.mp4
+#EXTINF:185,03.05 Habilitar CORS
+ES_819_03_05_XR25R.mp4
+#EXTINF:464,04.01 Crear un cliente web para un web service
+ES_819_04_01_XR25R.mp4
